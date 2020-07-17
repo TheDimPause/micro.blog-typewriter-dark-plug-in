@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"title": "Typewriter dark mode",
+	"description": "Adds support for Dark Mode in the Typewriter design.",
+	"includes": [
+    	"/twdark.css"
+	]
+}

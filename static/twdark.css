@@ -1,0 +1,40 @@
+@media (prefers-color-scheme: dark) {
+
+	body {
+		color: white;
+		background: black;
+		}
+  
+	a, a:visited {
+		color: #0a84ff;
+		}
+  
+	a:hover {
+		color: #366d84;
+		}
+
+	a.logo, a.logo:visited {
+		color: white;
+		}
+  
+	.menu__entry a, .menu__entry a:visited, .menu__entry a:hover {
+		color: #0a84ff;
+		} 
+  
+	h1, h2, h3, h4, h5, h6 {
+		color: white;
+        }
+  
+	.post-title__text {
+		color: white;
+		}
+  
+	.page-title__text {
+		color: white;
+		}
+  
+	.post-teaser__title {
+		color: white;
+		}
+  
+}
