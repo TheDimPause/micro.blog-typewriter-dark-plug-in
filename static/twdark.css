@@ -6,7 +6,7 @@
 		}
   
 	a, a:visited {
-		color: #0a84ff;
+		color: #aaaaaa;
 		}
   
 	a:hover {
@@ -18,7 +18,7 @@
 		}
   
 	.menu__entry a, .menu__entry a:visited, .menu__entry a:hover {
-		color: #0a84ff;
+		color: #aaaaaa;
 		} 
   
 	h1, h2, h3, h4, h5, h6 {
