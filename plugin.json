@@ -1,5 +1,5 @@
 {
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"title": "Typewriter dark mode",
 	"description": "Adds support for Dark Mode in the Typewriter design.",
 	"includes": [
