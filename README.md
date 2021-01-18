@@ -1,3 +1,3 @@
-# Sublime Ads Code
+# Typewriter dark mode
  
-Adds Sublime Ads script into the <head> tag of a site.
+Adds support for Dark Mode in the Micro.blog Typewriter design.

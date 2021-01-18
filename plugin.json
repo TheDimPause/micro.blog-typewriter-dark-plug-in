@@ -1,8 +1,8 @@
 {
 	"version": "1.0.1",
-	"title": "Sublime Ads Code",
-	"description": "Adds Sublime Ads script into the <head> tag of a site.",
+	"title": "Typewriter dark mode",
+	"description": "Adds support for Dark Mode in the Typewriter design.",
 	"includes": [
-    	"sublimeads.html"
+    	"/twdark.css"
 	]
 }
