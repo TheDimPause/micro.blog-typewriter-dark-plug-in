@@ -40,5 +40,9 @@
 	.post-teaser__title {
 		color: white;
 		}
+
+	.field {
+		color: gray;
+		}
   
 }
