@@ -1,8 +1,8 @@
 @media (prefers-color-scheme: dark) {
 
 	body {
-		color: white;
-		background: black;
+		color: lightgrey;
+		background: #1f2f3f;
 		}
   
 	a, a:visited {
@@ -10,19 +10,19 @@
 		}
   
 	a:hover {
-		color: #366d84;
+		color: lightblue;
 		}
 
 	a.logo, a.logo:visited {
-		color: white;
+		color: lightgrey;
 		}
   
 	.menu__entry a, .menu__entry a:visited, .menu__entry a:hover {
-		color: #aaaaaa;
+		color: darkgrey;
 		} 
   
 	h1, h2, h3, h4, h5, h6 {
-		color: white;
+		color: lightgrey;
         }
 
 	strong {
@@ -30,19 +30,19 @@
 		}
   
 	.post-title__text {
-		color: white;
+		color: lightgrey;
 		}
   
 	.page-title__text {
-		color: white;
+		color: lightgrey;
 		}
   
 	.post-teaser__title {
-		color: white;
+		color: lightgrey;
 		}
 
 	.field {
-		color: gray;
+		color: grey;
 		}
   
 }
